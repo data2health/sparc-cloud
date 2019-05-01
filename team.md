@@ -3,34 +3,49 @@
 ## Lead(s)
 Name | GitHub Handle | Site
 -- | -- | --
-Rob Schuff | [schuffr](https://github.com/schuffr) | OHSU
+ammarchaudhry84@gmail.com Ammar | [COH](COH) | 
+schuffr@ohsu.edu Rob | [OHSU](OHSU) | Site Personnel?
 
 ## Contributor(s)
 Name | GitHub Handle | Site
 -- | -- | --
-Connor Cook | [cgcook](https://github.com/cgcook) | OHSU
-Ken Gersing | [KenGersing](https://github.com/KenGersing) | NIH
-Sean Mooney | [sdmooney](http://github.com/sdmooney) | UW
-Justin Prosser | [jprosser](http://github.com/jprosser) | UW
-Justin Ramsdill | [ramsdill](http://github.com/ramsdill) | OHSU
-Justin Starren | [starrenj](https://github.com/starrenj) | Northwestern
-Liz Zampino | [ezampino](https://github.com/ezampino) | UW
+tmdillon@wustl.edu Tom | [WashU](WashU) | Project Manager
+tsgal@vcu.edu Tamas | [CCTR](CCTR) | 
+Kenneth.Gersing@nih.gov Ken | [NCATS](NCATS) | Project Scientist
+bernie.lasalle@hsc.utah.edu Bernie | [UUtahHealth](UUtahHealth) | Consultant
+sdmooney@uw.edu Sean | [UW](UW) | PD
+jprosser@uw.edu Justin | [UW](UW) | Software engineering
+ramsdill@ohsu.edu Justin | [OHSU](OHSU) | Working with OHSU on LOINC2HPO and other projects
+srojevsky@tuftsmedicalcenter.org Svetlana | [Tufts](Tufts) | varies depending on a project
+justin.starren@northwestern.edu Justin | [Northwestern](Northwestern) | Domain Expert
+ezampino@uw.edu Liz | [UW](UW) | Project Manager
 
 ## Mailing list only
 Name | GitHub Handle | Site
 -- | -- | --
-Matt Baumann | [mattbaumann1](http://github.com/mattbaumann1) | Northwestern
-Christopher Chute | [cgchute](https://github.com/cgchute) | JHU
-David Ellison | [dhekidney](http://github.com/dhekidney) | OHSU
-Shahim Essaid | [ShahimEssaid](http://github.com/ShahimEssaid) | OHSU
-Diane Keogh | [gibhub.com](http://gibhub.com) | Harvard
-Sean Mooney | [sdmooney](http://github.com/sdmooney) | UW
-Milen Nikolov | [milen-sage](https://github.com/milen-sage) | Sage
-Philip Payne | [prpayne5](http://github.com/prpayne5) | WashU
-Thomas Schaffter | [tschaffter](https://github.com/tschaffter) | Sage
-Pamela Shaw | [bioscibrarian](https://github.com/bioscibrarian) | Northwestern
-Eric Sid | [ericsid](https://github.com/ericsid) | NCATS
-Harold Solbrig | [hsolbrig](http://github.com/hsolbrig) | JHU
-Ali Torkamani | [atorkama](https://github.com/atorkama) | Scripps
-Xinzhi Zhang | [NCATS2019](https://github.com/NCATS2019) | NCATS
+Matthew.baumann@northwestern.edu Matt | [Northwestern](Northwestern) | Developer
+chute@jhu.edu Christopher | [JHU](JHU) | coPI
+cook.cd2h@gmail.com Connor | [OHSU](OHSU) | Program Coordinator
+ellisond@ohsu.edu David | [OHSU](OHSU) | co-investigator
+essaids@ohsu.edu Shahim | [OHSU](OHSU) | Semantic engineer 
+JFeccount@gmail.com Joseph | [Icahn](Icahn) | 
+pfranci4@jhu.edu Tricia | [JHU](JHU) | Project Manager
+tsgal@vcu.edu Tamas | [CCTR](CCTR) | 
+justin.guinney@sagebase.org Justin | [Sage](Sage) | PD
+diane_keogh@hms.harvard.edu Diane | [Harvard](Harvard) | Advisor
+boyd-knosp@uiowa.edu Boyd | [Iowa](Iowa) | 
+sdmooney@uw.edu Sean | [UW](UW) | PD
+nbparikh@ucdavis.edu Nitin | [UCDavisHealth](UCDavisHealth) | 
+prpayne@wustl.edu Philip | [WashU](WashU) | Site PI
+srojevsky@tuftsmedicalcenter.org Svetlana | [Tufts](Tufts) | varies depending on a project
+eugsadhu@uic.edu Eugene | [UIC](UIC) | 
+thomas.schaffter@sagebionetworks.org Thomas | [Sage](Sage) | Challenge Organization, IT/Cloud
+p-shaw2@northwestern.edu Pamela | [Northwestern](Northwestern) | Education, BioData Club, Open Science
+eric.sid@nih.gov Eric | [NCATS](NCATS) | NCATS/ORDR Collaborator
+solbrig@jhu.edu Harold | [JHU](JHU) | Other
+juliansolway@gmail.com Julian | [UChicago](UChicago) | 
+btaylor@mcw.edu Bradley | [MCW](MCW) | 
+atorkama@scripps.edu Ali | [Scripps](Scripps) | Adviser, Data Provider
+awilliams15@tuftsmedicalcenter.org Andrew | [Tufts](Tufts) | Varies depending on project
+xinzhi.zhang@nih.gov Xinzhi | [NCATS](NCATS) | Program Officer
 
