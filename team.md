@@ -3,12 +3,12 @@
 ## Lead(s)
 Name | GitHub Handle | Site
 -- | -- | --
-Ammar Chaudhry | [informatics](https://github.com/achaudhry615/informatics) | COH
 Rob Schuff | [schuffr](https://github.com/schuffr) | OHSU
 
 ## Contributor(s)
 Name | GitHub Handle | Site
 -- | -- | --
+Ammar Chaudhry | [informatics](https://github.com/achaudhry615/informatics) | COH
 Tom Dillon | [tmdillon](https://github.com/tmdillon) | WashU
 Tamas Gal | [tsgal](https://github.com/tsgal) | CCTR
 Ken Gersing | [KenGersing](https://github.com/KenGersing) | NCATS
