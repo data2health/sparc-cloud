@@ -17,7 +17,6 @@ Justin Prosser | [jprosser](http://github.com/jprosser) | UW
 Justin Ramsdill | [ramsdill](http://github.com/ramsdill) | OHSU
 Svetlana Rojevsky | [github.com](http://github.com) | Tufts
 Justin Starren | [starrenj](https://github.com/starrenj) | Northwestern
-Liz Zampino | [ezampino](https://github.com/ezampino) | UW
 
 ## Mailing list only
 Name | GitHub Handle | Site
